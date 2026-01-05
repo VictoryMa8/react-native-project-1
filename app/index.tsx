@@ -10,6 +10,7 @@ export default function Index() {
       }}
     >
       <Text>Hello World!</Text>
+      <Text>This is a basic React Native project to test an AWS API Gateway and Lambda function.</Text>
     </View>
   );
 }
